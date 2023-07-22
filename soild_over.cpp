@@ -13,7 +13,7 @@ class solid
 
      solid(int l,int w,int h){
         cout<<"area of cuboid"<<l*w*h<<endl;
-    }
+    }                                
 
      solid(double b,double h){
         cout<<"area of prism"<<b*h<<endl;
