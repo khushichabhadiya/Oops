@@ -8,7 +8,7 @@ class rect
     public:
     void setdata (int x,int y)
     {
-        l=x;b=y;
+        l=x , b=y;
     }
     void getdata()
     {

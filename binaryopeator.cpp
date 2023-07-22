@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>]
 using namespace std;
 class box
 {
@@ -10,7 +10,7 @@ class box
     }
     int getdata()
     {
-        return l*w*h;
+        return l*w*h; 
     }
     box operator-(box &n)
     {
