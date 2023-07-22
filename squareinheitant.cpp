@@ -12,7 +12,7 @@ class square
     }
 };
 class root : public square
-{
+{  
     public:
     int sum;
     void get()
