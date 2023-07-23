@@ -15,9 +15,9 @@ class derived : public base
 };
 int main()
 {
-    base *ptrq;
+    base *ptr;
     derived d;
     
-    ptr = &d;
+    ptr = & d;
     ptr -> test();
 }
